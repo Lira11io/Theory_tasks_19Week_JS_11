@@ -1,0 +1,13 @@
+.root {
+  margin: 15px;
+  background-color: bisque;
+}
+
+ol {
+  font-size: 20px;
+}
+
+/*Стиль вопросов*/
+.question {
+  font-weight: 600;
+}
